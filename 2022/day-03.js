@@ -1,6 +1,7 @@
-const fs = require('fs');
+//day 3 JavaScript
+//https://adventofcode.com/2022/day/3/input
 
-const input = fs.readFileSync('./day-03-input.txt', 'utf8').trimEnd();
+const input = document.querySelector("body > pre").innerHTML.trim();
 
 function getPriority(char) {
   return char === char.toLowerCase()
