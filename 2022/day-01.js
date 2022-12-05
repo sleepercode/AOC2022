@@ -1,6 +1,7 @@
-const fs = require('fs');
+// day2
+//https://adventofcode.com/2022/day/2
 
-const input = fs.readFileSync('./day-01-input.txt', 'utf8').trimEnd();
+const input = document.querySelector("body > pre").innerHTML.trim();
 
 function solve(input) {
   const elves = input
