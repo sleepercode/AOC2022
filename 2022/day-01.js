@@ -1,5 +1,5 @@
-// day2
-//https://adventofcode.com/2022/day/2
+// day1
+//https://adventofcode.com/2022/day/1
 
 const input = document.querySelector("body > pre").innerHTML.trim();
 
