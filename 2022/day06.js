@@ -14,7 +14,3 @@ function solve(input, part) {
 }
 solve(input, 1);
 solve(input, 2);
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Term
