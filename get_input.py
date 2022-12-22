@@ -17,7 +17,6 @@ import requests
 # 6) Grab the value for session. Fill it in.
 SESSION = '<FILL_ME_IN>'
 
-#useragent = 'https://github.com/jonathanpaulson/AdventOfCode/blob/master/get_input.py by jonathanpaulson@gmail.com'
 useragent = 'https://github.com/sleepercode/AOC2022/blob/main/get_input.py avdic.amel@gmail.com'
 parser = argparse.ArgumentParser(description='Read input')
 parser.add_argument('--year', type=int, default=2022)
